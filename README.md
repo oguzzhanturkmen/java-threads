@@ -1,3 +1,5 @@
+### **Java Threads**
+
 In Java, a thread is a lightweight subprocess, the smallest unit of processing. It's a separate path of execution because each thread runs in a separate stack frame. Multithreading is a Java feature that allows concurrent execution of two or more parts of a program for maximum utilization of CPU.
 
 ### **Basics of Java Threads:**
